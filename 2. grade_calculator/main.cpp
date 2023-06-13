@@ -10,8 +10,8 @@ int main() {
 
 	for (int i = 0; i < 10; i++) {
 		student[i][0] = rand() % 101;
-		student[i][1] = rand() % 85;
-		student[i][2] = rand() % 70;
+		student[i][1] = rand() % 101;
+		student[i][2] = rand() % 101;
 
 		student[i][3] = student[i][0] + student[i][1] + student[i][2];
 		student[i][4] = student[i][3] / 3;

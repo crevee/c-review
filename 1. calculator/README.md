@@ -2,9 +2,9 @@
 
 ## Goal
 
-1. 두개의 정수를 입력 받는다.
-2. 더하기, 빼기, 곱하기, 나눈 값을 출력한다.
-3. 입력된 두 수 중 큰 수를 출력한다.
+1. Receive two integers
+2. Outputs addition, subtracion, multiplication, and division values
+3. Outputs the larger of the two input numbers
 
 ## Result
 

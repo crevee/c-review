@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include<stdlib.h>
-#include<time.h>
+#include <stdlib.h>
+#include <time.h>
 
 #define GAME_END -1
 #define PLAYER_SCISSORS 0

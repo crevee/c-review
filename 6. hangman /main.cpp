@@ -21,16 +21,16 @@ int g_step = 0;
 void InitGame(char* com, char* player){
     srand(time(NULL));
     
-    int index = rand()% 10;
+    int index = rand()% 10, i;
     
     strcpy(com, g_dic[index]);
     
     int len = strlen(com);
     
-    for(int i = 0 ; i < len; i++){
+    for(i = 0 ; i < len; i++){
         player[i] = '*';
     }
-    player[len] = '\0';
+    player[i] = '\0';
 }
 
 int InputChar(char com[20],char player[20]){

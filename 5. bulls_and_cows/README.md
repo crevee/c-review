@@ -11,4 +11,4 @@
 
 ## Result
 
-![스크린샷 2023-06-15 18 08 52](https://github.com/crevee/c-review/assets/64821752/539db09e-e9fd-4c1e-8d30-6831bafeb828)
+![image](https://github.com/crevee/c-review/assets/64821752/6bbd6e97-12d4-4ba7-a775-c5c62b083631)

@@ -1,3 +1,5 @@
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -58,7 +60,7 @@ void ShowRate(int count, int win_count) {
 int main() {
 
     int player, com, re, count = 0, win_count = 0;
-    
+
     MyInit(&count, &win_count);
 
     while (1) {

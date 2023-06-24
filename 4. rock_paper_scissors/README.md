@@ -8,5 +8,4 @@
 
 ## Result
 
-![스크린샷 2023-06-15 17 18 59](https://github.com/crevee/c-review/assets/64821752/446d692b-70fe-46ef-b033-a6a4a2e2cf2f)
-
+![image](https://github.com/crevee/c-review/assets/64821752/946611c1-7b9f-4949-898f-227c6370bddc)

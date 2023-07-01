@@ -1,4 +1,4 @@
-# 10. sangsungbee
+# 10. sansungbee
 
 ## Goal
 

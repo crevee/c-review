@@ -2,15 +2,15 @@
 
 ## Goal
 
-1. sansungbee is a Korean typing practice program.
-2. Certain words fall down on the screen at regular intervals.
-3. The player removes words by typing them on the keyboard.
-4. Match a lot of words to get a high score.
-5. If you don't match the word, your life will be reduced by one.
-6. When all lives are lost, the game is over.
+1. sansungbee is a Korean typing practice program
+2. Certain words fall down on the screen at regular intervals
+3. The player removes words by typing them on the keyboard
+4. Match a lot of words to get a high score
+5. If you don't match the word, your life will be reduced by one
+6. When all lives are lost, the game is over
 7. Create title screen at game start
 8. Life decreases when the word reaches the end
-9. If the word is guessed, 100 points are awarded.
+9. If the word is guessed, 100 points are awarded
 
 ## Result
 

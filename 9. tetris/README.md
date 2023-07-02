@@ -2,7 +2,7 @@
 
 ## Goal
 
-1. Remove the block using the arrow keys on the keyboard.
+1. Remove the block using the arrow keys on the keyboard
 2. Press the spacebar to quickly drop blocks
 
 ## Result

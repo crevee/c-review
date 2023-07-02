@@ -2,12 +2,12 @@
 
 ## Goal
 
-1. An enemy spaceship appears at the top of the screen.
-2. The bottom player attacks the enemy.
-3. The player moves left and right to avoid enemy attacks.
+1. An enemy spaceship appears at the top of the screen
+2. The bottom player attacks the enemy
+3. The player moves left and right to avoid enemy attacks
 4. Title screen composition
 5. Top left player life display
-6. The game ends when all enemies are killed or no player lives.
+6. The game ends when all enemies are killed or no player lives
    
 ## Result
 
